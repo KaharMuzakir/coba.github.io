@@ -179,11 +179,11 @@ function updateExperimentList() {
             <table>
                 <thead>
                     <tr>
-                        <th>Time</th>
-                        <th>Temperature (°C)</th>
-                        <th>Stirrer Speed</th>
-                        <th>Color Sensor</th>
-                        <th>Heater Status</th>
+                        <th><i class="fas fa-clock"></i></th>
+                        <th><i class="fas fa-thermometer-half"></i> (°C)</th>
+                        <th><i class="fas fa-tachometer-alt"></i> (rpm)</th>
+                        <th><i class="fas fa-palette"></i></th>
+                        <th><i class="fas fa-fire"></i></th>
                     </tr>
                 </thead>
                 <tbody>
